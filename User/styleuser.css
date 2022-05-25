@@ -1,0 +1,12 @@
+.card {
+    padding: 1rem;
+    border: 1px solid black;
+    margin: 3rem;
+    border-radius: 2px;
+    padding:8px 8px 8px
+    
+    }
+    body{
+        background-color: #fff;
+        
+    }
